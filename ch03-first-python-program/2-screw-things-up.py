@@ -17,8 +17,8 @@ print("hi")
     because of a run-time error '''
 print("hello")
 
-my_string ='hello'
-print(my_string)
+my_stringg ='hello'
+print(my_stringg)
 # We meant to print the string "hello";
 # a variable named 'hello' doesn't exist yet.
 #
