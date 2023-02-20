@@ -22,3 +22,8 @@ print(
     "This one-line string was written out \
       using multiple lines"
 )
+
+print(
+    "hello \
+      hi"
+)

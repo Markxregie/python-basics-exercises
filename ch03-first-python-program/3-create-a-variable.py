@@ -7,7 +7,8 @@
 # interactive window.
 
 # Display a string directly
-print("hello")
+new_string = "hello"
+print(new_string)
 
 
 # Display the contents of a string variable
